@@ -1,7 +1,7 @@
 # LiftPlates-
 LiftPlates is a simple iOS app that calculates the number of weight plates needed to be added to each side of a barbell for a given weight.
 
-Usage
+# Usage-
 Use the stepper controls to set the barbell weight and weight to lift.
 Use the segmented control to select the unit of measurement (pounds or kilograms).
 Tap the "Calculate" button to calculate the number of weight plates needed for each side.
