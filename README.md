@@ -14,5 +14,9 @@ Using the app is easy: simply enter the weight of the barbell, the weight you wa
 
 # Demo 
 
-https://user-images.githubusercontent.com/73319722/224566373-7af4c6f7-b115-489e-9cd1-a1f84d0fa0b9.mp4
+
+
+
+
+https://user-images.githubusercontent.com/73319722/224566557-0726e2b1-564e-480f-9421-3aa61ad43436.mp4
 
